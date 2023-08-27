@@ -54,14 +54,14 @@ nav {
 }
 
 .back__galaxy {
-    background-image: url('https://img.freepik.com/free-vector/planets-outer-space-with-satellites-meteors-illustration_33099-2352.jpg?w=1380&t=st=1693148362~exp=1693148962~hmac=7683ba00b13b7b7af194b4ecd2d729632d8b6b4c0f056a6e2c8337476b935ba6');
+    background-image: url('../public/galaxy.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
 
 .galaxy__clouds {
-    background-image: url('./clouds.png');
+    background-image: url('../public/clouds.png');
     background-position: top center;
     background-repeat: repeat;
     animation: clouds 150s linear infinite;
@@ -191,7 +191,7 @@ nav {
 }
 
 .moondiv__back {
-    background-image: url('./moon.jpg');
+    background-image: url('../public/moon.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
