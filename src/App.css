@@ -54,7 +54,7 @@ nav {
 }
 
 .back__galaxy {
-    background-image: url('./galaxy.jpg');
+    background-image: url('/static/images/galaxy.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
